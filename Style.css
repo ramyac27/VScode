@@ -1,0 +1,31 @@
+.container{
+    background-color:pink
+}
+
+.para{
+    font-style: oblique;
+    color: blue
+}
+
+ul{
+   list-style:circle
+}
+
+.list-item{
+    font-style: italic;
+    color:gray
+}
+
+#heading{
+    font-style:normal;
+    font-size: medium;
+    color:blueviolet
+}
+
+p[data-type="paragraph"]{
+    font-style:italic;
+    font-size: xx-large;
+    color:black;
+}
+
+
